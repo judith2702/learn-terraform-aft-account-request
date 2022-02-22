@@ -6,8 +6,8 @@ module "sandbox" {
     AccountName               = "sandbox-aft"
     ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "judith.soundarya.joseph@pwc.com"
-    SSOUserFirstName          = "Sandbox"
-    SSOUserLastName           = "AFT"
+    SSOUserFirstName          = "judith"
+    SSOUserLastName           = "joseph"
   }
 
   account_tags = {
